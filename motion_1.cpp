@@ -29,9 +29,6 @@ using namespace cv;
 #define ENA 6 /*BCM pin 6, motor PWM A*/
 #define ENB 26 /*BCM pin 26, motor PWM B*/
 
-/* compiling would be: g++ -Wall -o motion_1 motion_1.cpp -lpigpio -lpthread -lrt */
-/* execute this: pkg-config --cflags --libs opencv to see the opencv installed libraries */
-
 /*The following structure defines all the inputs from th sensorial parts , it is meant to act 
 as a global variable for the threads*/
 
