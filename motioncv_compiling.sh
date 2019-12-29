@@ -1,0 +1,3 @@
+g++ -Wall -g -o motion_1 motion_1.cpp -I/usr/local/include/opencv -I/usr/local/include/opencv4 -L/usr/local/lib/ -lpigpio -lpthread -lrt -lopencv_videoio -lopencv_core -lopencv_imgproc -lopencv_ml -lopencv_video -lopencv_features2d -lopencv_stitching -lopencv_aruco -lopencv_bgsegm -lopencv_bioinspired -lopencv_calib3d -lopencv_ccalib -lopencv_datasets -lopencv_dnn -lopencv_dpm -lopencv_face -lopencv_flann -lopencv_freetype -lopencv_fuzzy -lopencv_gapi -lopencv_hfs -lopencv_highgui -lopencv_imgcodecs -lopencv_img_hash -lopencv_imgproc -lopencv_line_descriptor -lopencv_ml -lopencv_objdetect
+
+ 
