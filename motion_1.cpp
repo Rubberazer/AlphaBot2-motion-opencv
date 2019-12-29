@@ -53,7 +53,7 @@ PARAM parameters;
 static volatile int interrupt = 1;
 
 /*
-These functions below are for - in descending order- ultrasounds, infrared, 
+These functions below are for - in descending order- ultrasounds, infrared, camera, 
  moving forward.. 
 */
 
